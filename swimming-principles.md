@@ -3,6 +3,7 @@
 *principle:* a fundamental truth or proposition that serves as the foundation
 for a system of belief or behavior or for a chain of reasoning.
 
+
 ## Comfort
 
 No one will swim well or fast if they are uncomfortable in the water, and much
@@ -85,8 +86,97 @@ skill before it is required later. Weak breathing skills will only be realized l
 when you start to teach freestyle side breathing or if they start to sink while they
 take breaths kicking.
 
-## Line
+It starts with blowing bubbles under the water from the nose and mouth. Rhythmic
+breathing is really just that, but the power comes from the completeness of breathing
+out. The best rhythmic breathing is completely out under the water and only breathing in
+above the water. This extent of expertise is what is so valuable and should be taught well.
+It will serve as a wonderful enabler in future swimming.
+
+Bobs are an assessment of how well someone is able to comfortably rhythmicly breathe.
+They are jumps up of the bottom up to the surface, and then going back down and breathing
+out completely. Doing 10 bobs in a row means that a swimmer is able to comfortably get air
+meaning they could sustainably swim with their head under the water. the idea is that the
+swimmer is eventually able to hang out under the water, and just come up for air like
+dolphins do rather than spend most of their time at the surface and diving under for shorter
+periods of time. Success in this area is when a swimmer is able to be submerged for longer
+than they are at the surface.
+
+### 1.5 Jumps in
+
+Jumping in the pool is a catch all skill that is fun, and overcomes a lot of the fears,
+although they are still their lying in wait, just overpowered by the fun of the moment,
+but it functions as an excellent way to build comfort by pushing past fears.
+
 
 ## Core Strength
 
+Core strength is a higher level requirement for excellent line in all of the strokes,
+stabilizing the body through the kick, and converting the kick into power forward.
+
+The best way to train it at first is just swimming and doing the positions, but it can
+be enhanced with dryland planks and core exercises.
+
+
+## Line
+
+Similar to the foundational importance of comfort, there is no great swimmer with poor
+line, and often the greatest swimmers in the world exemplify a line greater than the
+other athletes around them. Good line makes swimming more efficient by reducing drag.
+Like a torpedo or an arrow through the air, the basic position of best line for humans
+is the streamline position. We only deviate from this position for swimming because of
+the great power offered by the arms in swimming. If we could kick as well as fish, we
+would never leave streamline, and top athletes in the world are now exploring this
+alternative as more and more of the champions in international competition take advantage
+of underwater portions of races, proving this theory, and also that humans must adapt and
+grow to this level of excellence.
+
+### 1.2 Floating
+
+Floating is a great first exposure to line and gives swimmers the feel for a good line
+early on and it should be continually revisited in order to feel that.
+
+### 1.4 Streamline
+
+This is the fundamental and best position of line in swimming, and it is prone to be
+sloppy at all levels and must be continually reinforced until strongly in place. No
+swimmer is above regression and falling back into imperfect form, especially at the
+rudimentary levels.
+
+### Comfort, Head Position, and Line
+
+Poor comfort will hinder head position, which hinders body position/body line. Improving
+line is a very easy way to make swimmers faster. It is easier to reduce drag than to
+increase strenth and propulsion. Drag can be reduced through line and technique, and power
+can be improved through technique and conditioning or strength training.
+
+Getting swimmers comfortable in the water makes getting a good head positiong easier,
+which in turn makes a good line easier. The body's default position is the standing with
+arms at the side, and anytime you move your head, you shift your weight back and forth.
+A good swimmer is balanced in their body position and lay as flat a possible in the water.
+This is only possible through a good head position, strong core, and good kick.
+
+### Notes
+
+Swimming relies on line in the same way that planes and rockets do in the sky. It relies
+on fluid mechanics and cannot take advantage of having a solid surface to propel from.
+We have determined that the most efficient way to have planes, rockets, and submarines is
+in a straight line, and the same is true of swimmers. It is because we have no access to
+the ground as in running, and drag is a much bigger deal when all you have to push you
+forward is also pushing you back.
+
+The absolute power that line has is evident between the strokes. Breaststroke has the worse
+line and it is the slowest stroke by far. Freestyle has the best line and it is the fastest
+and easiest stroke. The central idea of line is that you want your body to be as small
+as possible in the direction that you are going.
+
+
 ## Technique
+
+Technique, more than other strokes, is foundational to excellent swimming. Most of the
+benefit to speed in swimming comes from good technique over physical conditioning.
+Nothing can take the precedence of good technique in swim practice and that should be
+the continual focus even through conditioning sections. Technique will make or break
+an athlete.
+
+The best swimming coaches will never simply supervise a practice. They will watch and
+correct what they see.
