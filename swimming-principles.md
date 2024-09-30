@@ -1,26 +1,18 @@
 # Principles of Swimming
 
-*principle:* a fundamental truth or proposition that serves as the foundation
-for a system of belief or behavior or for a chain of reasoning.
+*principle:* a fundamental truth or proposition that serves as the foundation for a system of belief or behavior or for a chain of reasoning.
 
 
-## Comfort
 
-No one will swim well or fast if they are uncomfortable in the water, and much
-practice exists merely to work on their level of comfort more than their ability.
-This is what makes swimming difficult to teach. More than someones physical ability,
-it is mental.
+## 1 Comfort
 
-The quickest and most sure way to get over a fear is to face it, and here are a number
-of skills that can be used to get over the most common fear barriers in swimming.
-These solutions work for every level of fear, from minor discomfort to deathly fear.
-The only difference in application is time until effect.
+No one will swim well or fast if they are uncomfortable in the water, and a lot of practice exists merely to work on their level of comfort more than their ability. This is what makes swimming difficult to teach. More than someones physical ability, it is mental.
 
-### 1.1a Face in the water
+The quickest and most sure way to get over a fear is to face it, and here are a number of skills that can be used to get over the most common fear barriers in swimming. These solutions work for every level of fear, from minor discomfort to deathly fear. The only difference in application is time until effect.
 
-This step is often not necessary, but is a baby step for those with extreme fear. Many
-will be able to dunk their whole head at the beginning or want to jump right in, and you
-will have little trouble with comfort until freestyle side breathing (rotary breathing).
+### Face in the water
+
+This step is often not necessary, but is a baby step for those with extreme fear. Many will be able to dunk their whole head at the beginning or want to jump right in, and you will have little trouble with comfort until freestyle side breathing (rotary breathing).
 
 This is the first small step which must be overcome. Occasionally, you will have a
 swimmer who is still to scared to do this, and so you must make the problem smaller.
@@ -29,7 +21,7 @@ Anytime you come up against a wall, make the problem smaller and into something 
 they can perform. No barrier is insurmountable with sufficiently small enough steps.
 Some will take more steps than others, but ultimately, all can be overcome.
 
-### 1.1b Head in the water
+### Head in the water
 
 Again, some will jump straight in and have no opposition to that, but some do not
 like the feel of water in their ears or water completely over their head. Its as
@@ -37,7 +29,7 @@ thought there is no longer air above them if their head goes under. If they have
 opposition hear, again break it down into leaning back and getting their ears in and
 then getting their whole head.
 
-### 1.2 Floating Progression
+### Floating Progression
 
 **Front Float**
 
@@ -73,7 +65,7 @@ This is an enabler and a direct prerequesite for kicking on their back with a bo
 in streamline. Weaknesses in either of these areas can be solved with sufficient
 practice between floating on their back and strengthening kick on their stomache.
 
-### 1.3 Rhythmic Breathing Progression
+### Rhythmic Breathing Progression
 
 Rhythmic breathing is the technique used in all of swimming. It is simply breathing out
 as completely as possible under the water and breathing in above the water. This enables
@@ -101,7 +93,7 @@ dolphins do rather than spend most of their time at the surface and diving under
 periods of time. Success in this area is when a swimmer is able to be submerged for longer
 than they are at the surface.
 
-### 1.5 Jumps in
+### Jumps in
 
 Jumping in the pool is a catch all skill that is fun, and overcomes a lot of the fears,
 although they are still their lying in wait, just overpowered by the fun of the moment,
@@ -130,12 +122,12 @@ alternative as more and more of the champions in international competition take 
 of underwater portions of races, proving this theory, and also that humans must adapt and
 grow to this level of excellence.
 
-### 1.2 Floating
+### Floating
 
 Floating is a great first exposure to line and gives swimmers the feel for a good line
 early on and it should be continually revisited in order to feel that.
 
-### 1.4 Streamline
+### Streamline
 
 This is the fundamental and best position of line in swimming, and it is prone to be
 sloppy at all levels and must be continually reinforced until strongly in place. No
