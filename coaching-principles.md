@@ -6,15 +6,14 @@ for a system of belief or behavior or for a chain of resoning.
 v. *teach:* to show or explain to (someone) how to do something.
 
 **Contents:**
-*Philosophy*
 1. Safety First
-2. Coach Individuals
-3. Climb the Ladder
-4. Every Day: Consistency and Dedication
-*Methodology*
-5. Show and Tell
-6. Less is More
-7. Teach and Test
+2. Ignite a Fire
+3. Coach Individuals
+4. Climb the Ladder
+5. Every Day: Consistency and Dedication
+6. Show and Tell
+7. Less is More
+8. Teach and Test
 
 ## 1 Safety First
 Before we may teach anything to our young swimmers we must ensure their safety. In a very extreme circumstance, during the summer of 2022, 4yo boy Israel "Izzy" Scott drowned during a private (one-on-one) swim lesson at private home in Georgia prompting the Georgia General Assembly to pass "Izzy"'s Law in May of 2023. The instructor was charged with criminal negligence and has since been arrested.
@@ -28,14 +27,22 @@ Now, this story should not scare you, but it should make it clear that even in a
 4. **CPR Certification:** Either the instructor or secondary supervisor must have a certification in **C**ardio**p**ulmonary **R**esuscitation (CPR). All instructors will be certified in CPR at the beginning of the season.
 
 ### A Higher Standard of Safety
-We are not purely concerned with meeting the laws of the land. We have standards of our own. 
+I have no major concern about drowning. Of course it exists, but it is not a central one in my mind. There is no way to offer a superior level of instruction without sufficient supervision to more than prevent drowning. The largest safety concern is letting swimmers out of your sight for any period of time.
 
-## 2 Coach Individuals
+One of the challenges of instructing Storm Chasers is that there are three of them and they don't have a strong motivation. This makes it very tempting to simply split your time between the three of them and in essence offer three ten-minute lessons rather than a 30-minute lesson for all of them. Individual work is necessary at times to teach, however you should use methods that allow all three to learn and swim at once, rather than giving periods of work to each person. *The safety risk of this is that when you work with one swimmers for an extended period of time, you leave the other two out of your vision.* You must **never** do this. If you have to leave the other two out of your vision, they must be out of the water, and you must still ensure they remain out of the water.
 
-## 3 Every Day: Consistency and Dedication
+Beyond this even, your work throughout the lesson is to build the swimmer's comfort in the water, mental safety. Comfort, mental perception of safety, enables all of your swimmers to try new thingg, engage, and listen to you. Rather than part of their attention being taken by fear of the water, they can focus that on learning and listening to you. This is absolutely the first step.
 
-## 4 Show and Tell
+## 2 Ignite a Fire (Spark Interest)
 
-## 5 Less is More
+## 3 Coach Individuals
 
-## 6 Teach and Test
+## 4 Climb the Ladder
+
+## 5 Every Day: Consistency and Dedication
+
+## 6 Show and Tell
+
+## 7 Less is More
+
+## 8 Teach and Test
