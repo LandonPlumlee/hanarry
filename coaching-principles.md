@@ -4,39 +4,41 @@ n. *principle:* a fundamental truth or proposition that serves as the foundation
 
 v. *teach:* to show or explain to (someone) how to do something.
 
-This page contains a summary and a high level general understanding of all the concepts, but their are each explained in further depth on their own page.
-
 **Principles:**
-1. We are creating future Parkview swimmers.
-2. Fast swimming requires excellent technique above all else.
-3. Myelin makes excellence easy, but it takes time.
-4. People learn from information, not criticism or compliments.
-5. Safety is required.
-6. Great progress requires ignition.
-7. Skills build on each other.
-8. You are always coaching individuals.
-9. Every day makes a difference.
-10. Example is the greatest teacher.
-11. Testing helps the teacher teach and the learner learn.
+1. Fast swimming first requires excellent technique.
+2. You are always coaching individuals.
+3. People learn from information, not criticism or compliments.
+4. Myelin makes excellence easy, but it takes time.
+5. Great progress requires ignition.
+6. Every day makes a difference.
+7. Safety is required.
+8. Skills build on each other.
+9. Example is the best teacher.
+10. Testing helps the teacher teach and the learner learn.
 
-## 1. We are creating future Parkview swimmers.
-The ultimate goal is not to achieve something today and say anything in particular about your daily achievement. There will be days very properly spent pursuing the ultimate goal in which no full skill will be taught and to some observers it may seem that nothing was taught at all. 
-
-This is okay in pursuit of the ultimate goal, developing a swimmer who one day could be excellent on the Parkview swim team. Certain foundations which may not be obviously important still are and are worth pursuing even if they are hard to see. The missions of our team is not to win dual meets, although we may do that. It is not to teach swimmers a skill everyday, although we may do that and teaching skills is necessary. It is not to cover a certain number of topics or teach them particularily fast. All of these things may happen, but they are not the ultimate goal. We are here to develop swimmers over the years and make it extremely easy for them to get onto the Parkview swim team. Is that a requirement to be on our team? No. Must all high schoolers on our team swim for their High School? No. But that is the motivation. Create a swimmer who would be excellent on the Parkview Swim and Dive Team. That means getting them interested in the sport, keep them coming back to the sport year after year, and building technical skills, and physical conditioning.
-
-## 2. The fastest way swimming requires excellent technique first.
+## 1. Fast swimming first requires excellent technique.
 The greatest swimmers in the youngest age groups, especially the 6&U, are not the biggest and strongest. They are the most coordinated with the best stroke. PHysical size is of course a factor, but it is not the determining factor. There is no swimmer at the 15-18 session at county with terrible stroke and certainly no champion in any age group with poor technique. It just does not happen. It the follows that the necessary requirement is technical proficiency.
 
 You may say that it is also necessary to be in superior physical condition, so why don't we focus on that as well? It may be easier to get quick results from physical conditioning rather than technical proficiency. While I personally am not sure whether it is easier to improve via physical conditioning or technical expertise, I do know that if you pursue physical conditioning without technical expertise, you create a barrier between the athlete and absolute excellence. If they want to be the truly great at the top of performance they must use good technique and technique is best learned the right way the first time. Conditioning, a.k.a. practice, with poor technique creates habits and a rut in the road that is difficult to get out of. Better to do it right the first time.
 
-## 3. Myelin makes excellence easy, but it takes time.
+There are many resources on YouTube to show the proper technique for strokes and additionally many progressions online. Our program has its own progressions for each stroke, but there are many ways to get to the same place. One of the most amazing things that I have observed as a coach is the remarkable improvement that technique does provide with very little conditioning. Good technique is efficient and I believe that there is no better way to become a great swimmer.
+
+## 2. You are always coaching indivdiuals.
+Regardless of whether you are teaching a private lesson or leading a large group, it is helpful to remember that there are individuals in both circumstances. The greatest coaches commonly value knowing the individual that you are teaching. The only difference between coaching a private lessons and coaching a group is that you must coach different individual in quick succession or at the same time. I have found coaching multiple at the same time less effective, even if more efficient. It is a struggle and this is one of the reasons that private lessons are so valuable for learning on the side of the coach *and* the swimmer.
+
+When it comes to private lessons, coaching the individual and finding what works for that individual is the most fun part and is the thing that you can focus on. Private lesons create a space for you to focus on your teaching ability and find what works, try new things, and practice connection to the swimmer and solving their problems. You are there watching trying to guess at what is going on inside of their head. Find out what they are thinking, where they are struggling, talk to them, connect, and see what you can do to help. The sesions where I am out of it and don't connect or make great contributions for their specific situations are the lessons that I feel the worst about. The challenge in groups is to be able to provide something similar to the experience of private lessons for a great number of students. It is fun and exciting because of the potential, but also very difficult. Understand that everyone is struggling with something slightly different. People miss different things and have different problems that they need to solve and you, as the coach, are there to (1) know what the problem is, (2) know what the solution is, and (3) know how to create that solution for that individual. The best coaches can do this quickly and accurately. Many times, you will misdiagnose the problem. Other times you may know what the problem is without knowing the solution, and most times you will know the problem and its solution, but be unable to teach it. Those are the three points of failure for any coach and you must consistently work with the individuals to find the solution for them.
+
+## 3. People learn from information, not criticism or compliments.
+Researchers were interested to know what great coaches say at practice. They decided to study John Wooden. John Wooden coached multiple sports with great success at UCLA and in D1 Basketball coached his team to 10 national championships over the course of 12 years. In listening to what he had to say they found that he communicated compliments 6.9% of the time, displeasure 6.6% of the time, and 75% of the time communicated pure information: what to do, how to do it, intensify or change the activity.
+
+## 4. Myelin makes excellence easy, but it takes time.
 This principle is based on the book *The Talent Code* by Daniel Coyle. It is a layman's exposition of the requirements to build expertise and world class talent.
 
+## 5. Great progress requires ignition.
 
+## 6. Every day makes a difference.
 
-## 3.  People learn from information, not criticism or compliments.
-
-## 4. Safety is required.
+## 7. Safety is required.
 Before we may teach anything to our young swimmers we must ensure their safety. In a very extreme circumstance, during the summer of 2022, 4yo boy Israel "Izzy" Scott drowned during a private (one-on-one) swim lesson at private home in Georgia prompting the Georgia General Assembly to pass "Izzy"'s Law in May of 2023. The instructor was charged with criminal negligence and has since been arrested.
 
 Now, this story is not here to scare you but to make it clear that even in a situation where there should be no concern about safety, terrible things can still happen. In our program, Storm Chasers are taught with--at most--three inexperienced swimmers in the water for every one instructor with supervision of Lead Coaches and parents, and private lessons are always one-to-one only under the supervision of the parent. These circumstances require great care and responsibility.
@@ -52,15 +54,9 @@ There is no way to offer a superior level of instruction without sufficient supe
 
 One of the challenges of instructing Storm Chasers is that there are three of them and they don't have strong motivation. This makes it very tempting to simply split your time between the three of them and in essence offer three ten-minute lessons rather than a 30-minute lesson for all of them. Individual work is necessary at times to teach, however you should use methods that allow all three to learn and swim at once rather than giving periods of work to each person. *The safety risk of this is that when you work with one swimmers for an extended period of time, you leave the other two out of your vision.* You must **never** do this. If you have to leave the other two out of your vision, they must be out of the water, and you must still watch to make ensure they remain out of the water.
 
-Beyond this even, your work throughout the lesson is to build the swimmer's comfort in the water: a.k.a. mental safety. Comfort, or mental perception of safety, enables all of your swimmers to try new thingg, engage, and listen to you. Rather than splitting their attention between you and their fear of the water, they can focus on learning and listening to you. This is a valuable first step for all swimmers to maximize your subsequent lessons.
+Beyond this even, your work throughout the lesson is to build the swimmer's comfort in the water: a.k.a. mental safety. Comfort, or mental perception of safety, enables all of your swimmers to try new things, engage, and listen to you. Rather than splitting their attention between you and their fear of the water, they can focus on learning and listening to you. This is a valuable first step for all swimmers to maximize your subsequent lessons.
 
-## 5. Great progress requires ignition.
-
-## 6. Skills build on each other.
-
-## 7. You are always coaching individuals.
-
-## 8. Every day makes a difference.
+## 8. Skills build on each other.
 
 ## 9. Example is the greatest teacher.
 
