@@ -1,0 +1,3 @@
+# Hanarry Mission Statement
+
+The team exists to feed the sport of swimming and develop the foundational skills for future great swimmers. The first step is encouraging hard work and focus at all stages of development, but especially at the beginning. This then enables efficient instruction and practice of optimal technique for swimming efficiency. And secondary to technical expertise is the physical conditioning to swim fast. Hanarry is a launching pad or an environment where children become young swimmers interested in getting better and returning to the sport season after season to develop and maintain technical perfection and become strong, powerful, and fast swimmers.
