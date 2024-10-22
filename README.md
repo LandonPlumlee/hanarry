@@ -1,1 +1,1 @@
-This repository aims to make swim coaching resources avaiable online for self education.
+This repository aims to develop great coaching, and great **swim** coaching in particular, by making resources available online for self education.
